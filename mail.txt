@@ -1,0 +1,6 @@
+From: XXXXX@XXXXXX
+To: XXXXX@XXXXXX;XXXXX@XXXXXX
+Subject: XXXXXXX
+Content-Type: text/plain; charset=iso-2022-jp
+
+XXXXXXX
